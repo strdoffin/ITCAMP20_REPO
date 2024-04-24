@@ -4,7 +4,7 @@
  * test1
  * test2
 # Heartsite MEME
-* ## When I coding Js ☠!
+* ## When I'm coding Js ☠!
     ![alttext](https://i.kym-cdn.com/photos/images/original/001/102/822/616.jpg)
 * ## Web Dev Hell
     ![Crying with js](/1.1.jpg)
