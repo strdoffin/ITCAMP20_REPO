@@ -10,3 +10,6 @@
     ![Crying with js](/1.1.jpg)
 * ## React 0 Svelte 1
     ![Svelte 1 React 0](/2.1.jpeg)
+
+
+  https://prod.liveshare.vsengsaas.visualstudio.com/join?1E24F2DED93A91C10C01B1C397E0ED5AD390
